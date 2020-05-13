@@ -4731,6 +4731,11 @@
             "source": "https://help.radiopublic.com/hc/en-us/articles/360002546754-RadioPublic-logos"
         },
         {
+            "title": "RAD Studio",
+            "hex": "EE1E33",
+            "source": "https://www.embarcadero.com/news/logo"
+        },
+        {
             "title": "Rails",
             "hex": "CC0000",
             "source": "http://rubyonrails.org/images/rails-logo.svg"
